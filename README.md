@@ -1,70 +1,81 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+⭐️ Course Contents ⭐️
+⌨️ (00:00​) Intro 
+⌨️ (01:09​) About React 
+⌨️ (06:51​) Goals 
+⌨️ (08:50​) Structure 
+⌨️ (09:46​) Course Requirements 
+⌨️ (11:45​) Dev Environment Setup 
+⌨️ (16:26​) Text Editor Setup 
+⌨️ (18:20​) Command Line Basics 
+⌨️ (25:00​) NPM Basics 
+⌨️ (35:07​) Create-React-App 
+⌨️ (37:05​) Install Create-React-App 
+⌨️ (43:19​) Folder Structure 
+⌨️ (52:25​) Clean Boilerplate 
+⌨️ (54:00​) First Component 
+⌨️ (1:04:13​) Text Editor Setup 
+⌨️ (1:12:29​) First Component In Detail 
+⌨️ (1:19:18​) JSX Rules 
+⌨️ (1:28:55​) Nested Components And Tools 
+⌨️ (1:34:50​) Mini Book Project 
+⌨️ (1:42:59​) CSS Basics 
+⌨️ (1:54:41​) JSX Css 
+⌨️ (2:01:31​) JSX Javascript 
+⌨️ (2:09:30​) Props 
+⌨️ (2:25:41​) Props Destructuring 
+⌨️ (2:29:44​) Props - Children 
+⌨️ (2:36:13​) Simple List 
+⌨️ (2:45:12​) Proper List 
+⌨️ (2:52:49​) Key Prop And Spread Operator 
+⌨️ (2:58:52​) Event Basics 
+⌨️ (3:11:12​) Import And Export Statements 
+⌨️ (3:23:25​) Free Hosting 
+⌨️ (3:28:22​) Advanced Intro 
+⌨️ (3:30:42​) Get Starter Project 
+⌨️ (3:31:35​) Install Starter 
+⌨️ (3:33:43​) Starter Overview 
+⌨️ (3:39:00​) UseState - Simple Use Case 
+⌨️ (3:48:44​) UseState - Basics 
+⌨️ (4:00:47​) General Rules Of Hooks 
+⌨️ (4:03:39​) UseState - Array Example 
+⌨️ (4:17:27​) UseState - Object Example 
+⌨️ (4:23:00​) UseState - Multiple State Values 
+⌨️ (4:26:17​) Simple Counter 
+⌨️ (4:32:10​) Functional Update Form 
+⌨️ (4:44:55​) Matching Project 
+⌨️ (4:47:27​) useEffect - Basics 
+⌨️ (4:57:47​) useEffect - Conditional 
+⌨️ (5:01:40​) useEffect - Dependency List 
+⌨️ (5:07:13​) useEffect - Cleanup Function 
+⌨️ (5:19:24​) useEffect - Fetch Data 
+⌨️ (5:31:29​) Multiple Returns 
+⌨️ (5:37:09​) Multiple Returns - Fetching Data 
+⌨️ (5:52:07​) Short - Circuit Evaluation 
+⌨️ (6:02:50​) Ternary Operator 
+⌨️ (6:11:30​) Show/Hide Component 
+⌨️ (6:20:15​) Form Basics 
+⌨️ (6:28:53​) Controlled Inputs 
+⌨️ (6:38:09​) Add Item To The List 
+⌨️ (6:50:32​) Multiple Inputs 
+⌨️ (7:06:29​) useRef 
+⌨️ (7:16:20​) useReducer - UseState Setup 
+⌨️ (7:29:52​) useReducer - Refactor 
+⌨️ (7:37:15​) useReducer - Add Item 
+⌨️ (7:53:14​) useReducer - Remove Item 
+⌨️ (8:00:56​) Prop Drilling - 
+⌨️ (8:14:36​) Context API / - useContext 
+⌨️ (8:26:22​) Custom Hooks - useFetch 
+⌨️ (8:38:09​) PropTypes - Setup 
+⌨️ (8:47:48​) PropTypes - Images 
+⌨️ (8:55:48​) PropTypes - Default Values 
+⌨️ (9:00:41​) React Router Intro 
+⌨️ (9:05:52​) React Router - Basic Setup 
+⌨️ (9:15:50​) React Router - Error And Switch Component 
+⌨️ (9:18:51​) React Router - Links 
+⌨️ (9:23:22​) React Router - URL Params And Placeholder 
+⌨️ (9:37:51​) React Optimization Warning 
+⌨️ (9:41:21​) React.memo 
+⌨️ (9:49:50​) useCallback 
+⌨️ (9:58:00​) useMemo 
+⌨️ (10:04:15​) useCallback - Fetch Example
